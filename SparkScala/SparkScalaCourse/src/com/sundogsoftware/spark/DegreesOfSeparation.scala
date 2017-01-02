@@ -14,7 +14,7 @@ object DegreesOfSeparation {
   
   // The characters we want to find the separation between.
   val startCharacterID = 5306 //SpiderMan
-  val targetCharacterID = 14 //ADAM 3,031 (who?)
+  var targetCharacterID = 14 //ADAM 3,031 (who?)
   
   // We make our accumulator a "global" Option so we can reference it in a mapper later.
   var hitCounter:Option[LongAccumulator] = None
@@ -55,7 +55,7 @@ object DegreesOfSeparation {
   
   /** Create "iteration 0" of our RDD of BFSNodes */
   def createStartingRdd(sc:SparkContext): RDD[BFSNode] = {
-    val inputFile = sc.textFile("../marvel-graph.txt")
+    val inputFile = sc.textFile("../Marvel-graph.txt")
     return inputFile.map(convertToBFS)
   }
   
@@ -172,31 +172,40 @@ object DegreesOfSeparation {
     
     var iterationRdd = createStartingRdd(sc)
     
-    var iteration:Int = 0
-    for (iteration <- 1 to 10) {
-      println("Running BFS Iteration# " + iteration)
-   
-      // Create new vertices as needed to darken or reduce distances in the
-      // reduce stage. If we encounter the node we're looking for as a GRAY
-      // node, increment our accumulator to signal that we're done.
-      val mapped = iterationRdd.flatMap(bfsMap)
-      
-      // Note that mapped.count() action here forces the RDD to be evaluated, and
-      // that's the only reason our accumulator is actually updated.  
-      println("Processing " + mapped.count() + " values.")
-      
-      if (hitCounter.isDefined) {
-        val hitCount = hitCounter.get.value
-        if (hitCount > 0) {
-          println("Hit the target character! From " + hitCount + 
-              " different direction(s).")
-          return
-        }
-      }
-      
-      // Reducer combines data for each character ID, preserving the darkest
+    iterationRdd.collect().foreach(a => { 
+        targetCharacterID = (a._1)
+        println("character ID : " + targetCharacterID)
+        var iteration:Int = 0
+        for (iteration <- 1 to 10) {
+          println("Running BFS Iteration# " + iteration)
+       
+          // Create new vertices as needed to darken or reduce distances in the
+          // reduce stage. If we encounter the node we're looking for as a GRAY
+          // node, increment our accumulator to signal that we're done.
+          val mapped = iterationRdd.flatMap(bfsMap)
+          
+          // Note that mapped.count() action here forces the RDD to be evaluated, and
+          // that's the only reason our accumulator is actually updated.  
+          println("Processing " + mapped.count() + " values.")
+          println("Iteration : " + iteration)
+          if (hitCounter.isDefined) {
+            val hitCount = hitCounter.get.value
+            if (hitCount > 0 && iteration > 3) {
+              println("Hit the target character! " + targetCharacterID +" From " + hitCount + 
+                  " different direction(s).")
+              return
+            }
+          }
+         
+       
+              // Reducer combines data for each character ID, preserving the darkest
       // color and shortest path.      
       iterationRdd = mapped.reduceByKey(bfsReduce)
     }
+    }
+    )
+      
+
+    
   }
 }

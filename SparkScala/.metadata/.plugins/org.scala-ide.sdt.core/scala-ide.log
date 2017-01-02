@@ -1123,3 +1123,287 @@ org.eclipse.core.internal.resources.ResourceException: Resource '/LearningScala/
 2016-12-22 18:22:38,100 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
 2016-12-22 18:22:38,101 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
 2016-12-22 18:22:38,102 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 07:17:26,335 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 07:17:26,339 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 07:17:26,339 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 07:21:24,700 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 07:21:24,700 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 07:21:24,701 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 07:22:12,717  WARN [Worker-162] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 07:22:12,718  WARN [Worker-162] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 07:31:37,657  WARN [Worker-164] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 07:31:37,657  WARN [Worker-164] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 07:37:59,356  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 6587
+2016-12-23 07:38:01,447  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 6591
+2016-12-23 07:38:01,465  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 6591
+2016-12-23 07:38:03,235  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 6590
+2016-12-23 07:38:03,238  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 6590
+2016-12-23 07:38:03,810  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 6590
+2016-12-23 07:38:03,810  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 6590
+2016-12-23 07:38:05,574  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 5554
+2016-12-23 07:38:11,636  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 5554
+2016-12-23 07:38:12,184  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 5554
+2016-12-23 07:57:03,413  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-12-23 08:03:00,603 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:03:00,603 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:03:00,603 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:04:40,166  WARN [Worker-174] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:04:40,167  WARN [Worker-174] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:06:38,055  WARN [Worker-179] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:06:38,055  WARN [Worker-179] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:07:40,202  WARN [Worker-181] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:07:40,202  WARN [Worker-181] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:07:47,207 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:07:47,207 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:07:47,207 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:08:20,902  WARN [Worker-180] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:08:20,902  WARN [Worker-180] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:10:17,774  WARN [Worker-181] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:10:17,775  WARN [Worker-181] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:11:26,624 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:11:26,624 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:11:26,624 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:11:41,324 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:11:41,324 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:11:41,324 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:11:46,027  WARN [Worker-180] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:11:46,028  WARN [Worker-180] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:13:44,170 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:13:44,170 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:13:44,170 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:16:36,704  WARN [Worker-178] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:16:36,705  WARN [Worker-178] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:17:42,870  WARN [Worker-184] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:17:42,870  WARN [Worker-184] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:19:04,453  WARN [Worker-184] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:19:04,453  WARN [Worker-184] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:23:17,125  WARN [Worker-178] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:23:17,126  WARN [Worker-178] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:23:37,940 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:23:37,940 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:23:37,940 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:27:02,123 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:27:02,123 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:27:02,123 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:27:31,258  WARN [Worker-187] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:27:31,258  WARN [Worker-187] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:28:24,272  WARN [Worker-191] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:28:24,272  WARN [Worker-191] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:32:37,804  WARN [Worker-190] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:32:37,805  WARN [Worker-190] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:33:56,738  WARN [Worker-191] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 08:33:56,738  WARN [Worker-191] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 08:33:58,235 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:33:58,235 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 08:33:58,235 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 10:09:46,280  WARN [Worker-194] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 10:09:46,282  WARN [Worker-194] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 10:09:46,628  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2016-12-23 10:09:46,629  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2016-12-23 10:09:47,726  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-12-23 10:09:47,727  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-12-23 10:09:47,728  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-12-23 10:09:47,927  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-12-23 10:09:47,937  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-12-23 10:09:47,943  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-12-23 10:09:48,127  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-12-23 10:09:48,138  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-12-23 10:09:48,145  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-12-23 10:16:40,447 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 10:16:40,448 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 10:16:40,448 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 13:47:16,833 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 13:47:16,837 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 13:47:16,837 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 14:36:29,856 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 14:36:29,860 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-12-23 14:36:29,860 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 11:12:43,651  WARN [main] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 11:12:43,653  WARN [main] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 11:12:43,662  WARN [main] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 11:12:43,664  WARN [main] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 11:12:50,259  WARN [main] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2017-01-02 11:12:50,260  WARN [main] - ScalaProject - Project LearningScala runs on platform default installation.
+2017-01-02 11:17:07,859  WARN [Worker-3] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2017-01-02 11:17:07,867  WARN [Worker-3] - ScalaProject - Project LearningScala runs on platform default installation.
+2017-01-02 11:17:08,010  WARN [Worker-3] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2017-01-02 11:17:08,010  WARN [Worker-3] - ScalaProject - Project LearningScala runs on platform default installation.
+2017-01-02 11:17:08,100  WARN [Java indexing] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 11:17:08,101  WARN [Java indexing] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 11:17:09,275  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 11:17:09,487  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 11:17:09,690  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 11:17:09,977  WARN [Worker-3] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 11:17:09,980  WARN [Worker-3] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 11:17:10,012  WARN [Worker-3] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 11:17:10,012  WARN [Worker-3] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 11:17:19,724 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 11:17:19,724 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 11:17:19,724 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 11:46:56,307  WARN [main] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2017-01-02 11:46:56,308  WARN [main] - ScalaProject - Project LearningScala runs on platform default installation.
+2017-01-02 11:47:03,382  WARN [Worker-12] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 11:47:03,382  WARN [Worker-12] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 12:10:14,305  WARN [Worker-19] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 12:10:14,309  WARN [Worker-19] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 12:17:03,266  WARN [Worker-21] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 12:17:03,266  WARN [Worker-21] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 12:17:03,609  WARN [Java indexing] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 12:17:03,609  WARN [Java indexing] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 12:18:43,881 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 12:18:43,881 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 12:18:43,881 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 12:50:32,819 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 12:50:32,819 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 12:50:32,819 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 13:03:12,131  WARN [Worker-30] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 13:03:12,132  WARN [Worker-30] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 13:03:13,941 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 13:03:13,941 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 13:03:13,941 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 13:52:15,564  WARN [Worker-35] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 13:52:15,565  WARN [Worker-35] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 13:52:15,892  WARN [Java indexing] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 13:52:15,892  WARN [Java indexing] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 13:52:17,108  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,108  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,108  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,103  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,112  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,438  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,439  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,451  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,451  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,451  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,639  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,649  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,650  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,651  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,672  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,671  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,674  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,839  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,854  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,899  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 13:52:17,901  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 14:02:11,599 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 14:02:11,599 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 14:02:11,599 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 14:02:19,443 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 14:02:19,444 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 14:02:19,444 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 14:03:15,527 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 14:03:15,527 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 14:03:15,527 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 14:14:07,511  WARN [Worker-45] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 14:14:07,512  WARN [Worker-45] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 14:16:09,898  WARN [Worker-47] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 14:16:09,898  WARN [Worker-47] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 14:16:41,880  WARN [Worker-38] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 14:16:41,880  WARN [Worker-38] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 14:20:10,761 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 14:20:10,761 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 14:20:10,761 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 14:26:57,186  WARN [Worker-53] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 14:26:57,186  WARN [Worker-53] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 14:31:48,056  WARN [Worker-56] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 14:31:48,056  WARN [Worker-56] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 14:33:23,676  WARN [Worker-51] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 14:33:23,676  WARN [Worker-51] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 14:38:16,116  WARN [Worker-55] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 14:38:16,121  WARN [Worker-55] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 14:40:51,402  WARN [Worker-59] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 14:40:51,402  WARN [Worker-59] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 14:41:43,827  WARN [Worker-59] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 14:41:43,827  WARN [Worker-59] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 14:43:30,983  WARN [Worker-61] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 14:43:30,983  WARN [Worker-61] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 14:48:53,417  WARN [Worker-60] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 14:48:53,417  WARN [Worker-60] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 14:49:31,968  WARN [Worker-59] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 14:49:31,969  WARN [Worker-59] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 15:03:03,618  WARN [Worker-67] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 15:03:03,618  WARN [Worker-67] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 15:04:01,048  WARN [Worker-67] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 15:04:01,048  WARN [Worker-67] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 15:43:15,133  WARN [Worker-71] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 15:43:15,137  WARN [Worker-71] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 15:43:15,483  WARN [Java indexing] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 15:43:15,483  WARN [Java indexing] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 15:43:16,620  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,620  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,620  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,620  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,627  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,627  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,627  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,631  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,671  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,942  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,943  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,946  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,945  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,945  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,945  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,945  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,945  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:16,945  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:17,143  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:17,152  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:17,152  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:17,154  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:17,155  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:17,156  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:17,157  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:17,167  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 15:43:17,169  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 16:01:05,844  WARN [Worker-86] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 16:01:05,844  WARN [Worker-86] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 16:02:35,570  WARN [Worker-85] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 16:02:35,570  WARN [Worker-85] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 16:10:58,449  WARN [main] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 16:10:58,451  WARN [main] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 16:10:58,461  WARN [main] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 16:10:58,462  WARN [main] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 16:11:06,490  WARN [main] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2017-01-02 16:11:06,491  WARN [main] - ScalaProject - Project LearningScala runs on platform default installation.
+2017-01-02 16:14:42,372  WARN [main] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 16:14:42,376  WARN [main] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 16:14:42,395  WARN [main] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 16:14:42,395  WARN [main] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 16:14:52,496  WARN [main] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2017-01-02 16:14:52,500  WARN [main] - ScalaProject - Project LearningScala runs on platform default installation.
+2017-01-02 16:18:05,090 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 16:18:05,098 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 16:18:05,098 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 16:18:55,820  WARN [Worker-7] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2017-01-02 16:18:55,834  WARN [Worker-7] - ScalaProject - Project LearningScala runs on platform default installation.
+2017-01-02 16:18:55,918  WARN [Worker-7] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2017-01-02 16:18:55,918  WARN [Worker-7] - ScalaProject - Project LearningScala runs on platform default installation.
+2017-01-02 16:18:57,457  WARN [Worker-0] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 16:18:57,457  WARN [Worker-0] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 16:18:57,480  WARN [Worker-0] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 16:18:57,481  WARN [Worker-0] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 17:08:29,847  WARN [Worker-8] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 17:08:29,856  WARN [Worker-8] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 17:08:30,190  WARN [Java indexing] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 17:08:30,190  WARN [Java indexing] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 17:08:31,981  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 17:08:31,992  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 17:08:32,189  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 17:08:32,204  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 17:08:32,391  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 17:08:32,409  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 17:09:11,925 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 17:09:11,931 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 17:09:11,932 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 17:09:46,500 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 17:09:46,500 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 17:09:46,500 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-02 17:56:19,852  WARN [Worker-17] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 17:56:19,857  WARN [Worker-17] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 17:56:20,231  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2017-01-02 17:56:20,231  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2017-01-02 17:56:21,903  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 17:56:22,125  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-01-02 17:56:22,339  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.

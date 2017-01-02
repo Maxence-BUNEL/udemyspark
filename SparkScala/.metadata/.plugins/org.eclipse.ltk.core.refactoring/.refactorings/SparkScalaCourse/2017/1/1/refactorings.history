@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MaxTemperatures.scala&apos; to &apos;MaxTemperatures.scala&apos;&#x0A;- Original project: &apos;SparkScalaCourse&apos;&#x0A;- Destination element: &apos;MaxTemperatures.scala&apos;&#x0A;- Original element: &apos;MaxTemperatures.scala&apos;" description="Copy file" element1="src/com/sundogsoftware/spark/MaxTemperatures.scala" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1483361535395" target="/SparkScalaCourse/src/com/sundogsoftware/spark/MaxTemperatures.scala" units="0" version="1.0"/>
+</session>
