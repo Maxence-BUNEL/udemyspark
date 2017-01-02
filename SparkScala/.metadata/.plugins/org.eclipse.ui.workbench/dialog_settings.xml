@@ -16,13 +16,21 @@
 		<item value="org.eclipse.ui.wizards.import.FileSystem" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
 			<item value="org.eclipse.ui.Basic"/>
+<<<<<<< HEAD
+=======
+			<item value="org.eclipse.team.cvs.ui.importWizards"/>
+>>>>>>> c1b91520a2c9f95267a1fc6ad650ee74d8c32477
 		</list>
 	</section>
 	<section name="FileSystemImportWizard">
 		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
 		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
 		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+<<<<<<< HEAD
 			<item value="/home/maxence/Documents/mooc scala/SparkScala"/>
+=======
+			<item value="/home/mbunel/Documents/udemyspark/SparkScala"/>
+>>>>>>> c1b91520a2c9f95267a1fc6ad650ee74d8c32477
 		</list>
 	</section>
 </section>

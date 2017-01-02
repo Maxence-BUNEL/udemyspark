@@ -113,11 +113,24 @@ object MovieSimilarities {
     val uniqueJoinedRatings = joinedRatings.filter(filterDuplicates)
 
     // Now key by (movie1, movie2) pairs.
+<<<<<<< HEAD
     val moviePairs = uniqueJoinedRatings.map(makePairs)
 
     // We now have (movie1, movie2) => (rating1, rating2)
     // Now collect all ratings for each movie pair and compute similarity
     val moviePairRatings = moviePairs.groupByKey()
+=======
+    val moviePairsAllRatings = uniqueJoinedRatings.map(makePairs)
+
+    // We now have (movie1, movie2) => (rating1, rating2)
+    
+    val moviePairsGoodRatings = moviePairsAllRatings.filter( x=> {
+      (x._1._1>4)
+    })
+
+    // Now collect all ratings for each movie pair and compute similarity
+    val moviePairRatings = moviePairsGoodRatings.groupByKey()
+>>>>>>> c1b91520a2c9f95267a1fc6ad650ee74d8c32477
 
     // We now have (movie1, movie2) = > (rating1, rating2), (rating1, rating2) ...
     // Can now compute similarities.
